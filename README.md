@@ -15,3 +15,6 @@ Main features include:
 - Working with independent branches.
 - Submitting pull requests.
 - Reviewing and improving code changes.
+## Git Workflow
+
+This project demonstrates merge and rebase workflows.
