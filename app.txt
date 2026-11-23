@@ -1,4 +1,4 @@
 Collaboration Demo Project
 Version 1.0
 
-This project is maintained by Team A.
+This project is maintained by Team A&B
